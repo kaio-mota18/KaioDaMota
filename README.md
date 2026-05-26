@@ -1,8 +1,7 @@
 ## Hi, I'm Kaio Mota
 
-- 👀 I’m interested in web development. I've been currently using React as my front-end framework and Node.js to perform the back-end. Nowadays, I am working with Angular and C# with Entity Framework.
-- 🌱 I’m studying Computer Engineering.
-- 👨‍🏫 I'm an Entry-Level Developer at Mais Tecnologia.
+- 👀 I’m interested in web development.
+- 👨‍🏫 Entry-Level Developer experience. Mid-level integrations experience.
 - 🤝 I’m looking foward to collaborating on projects related to back-end and front-end, but I would appreciate helping in any other project where my abilities come in handy.
 - ⚡ I'm curious about AI
 - 📚 Fyodor Dostoevsky
@@ -36,6 +35,7 @@
   <ul>
     <li>English  (C2)</li>
     <li>Portuguese (Native)</li>
+    <li>Spanish (B1)</li>
     <li>French (A2)</li>
 
   <ul/> 
